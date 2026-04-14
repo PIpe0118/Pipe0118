@@ -1,6 +1,6 @@
 ![Felipe Molina](https://github.com/PIpe0118/Pipe0118/blob/main/Imagen%20perfil.png?raw=true)
 
-![Felipe Molina Banner](https://via.placeholder.com/1200x300.png?text=Felipe+Molina)
+
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2 align="left">Hey there! I'm Felipe Molina</h2>
