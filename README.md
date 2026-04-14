@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://drive.google.com/file/d/1WqOimmnBXWPI1SMcH3E85rCq8E3E6D2O/view?usp=sharing)
+![Felipe Molina](https://drive.google.com/file/d/1WqOimmnBXWPI1SMcH3E85rCq8E3E6D2O/view?usp=sharing)
 
 ![Felipe Molina Banner](https://via.placeholder.com/1200x300.png?text=Felipe+Molina)
 
