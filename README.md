@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/Adityakanoi2001/blob/8b3abf28d4d62728caf9ee9c177f48b058cbb997/assets/ASK%20Banner%20Image%20Github.png)
+![Aditya Kanoi Banner](https://drive.google.com/file/d/1WqOimmnBXWPI1SMcH3E85rCq8E3E6D2O/view?usp=sharing)
 
 ![Felipe Molina Banner](https://via.placeholder.com/1200x300.png?text=Felipe+Molina)
 
