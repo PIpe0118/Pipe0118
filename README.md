@@ -1,4 +1,4 @@
-![Felipe Molina](Imagen perfil.png)
+![Felipe Molina](https://github.com/PIpe0118/Pipe0118/blob/main/Imagen%20perfil.png?raw=true)
 
 ![Felipe Molina Banner](https://via.placeholder.com/1200x300.png?text=Felipe+Molina)
 
